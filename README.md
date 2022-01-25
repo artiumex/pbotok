@@ -1,0 +1,2 @@
+# Working Canvas
+This repl makes [node-canvas](https://github.com/Automattic/node-canvas) work with Node.js 16 & Nix by fixing the unmet [`libuuid` dependency](https://github.com/Automattic/node-canvas/issues/1893#issuecomment-983708418).
